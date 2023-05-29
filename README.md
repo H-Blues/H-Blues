@@ -7,7 +7,7 @@
     <a href="https://youtube.com/@henryhan0419">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="discordapp.com/users/1066787702424469564">
+    <a href="https://discordapp.com/users/1066787702424469564">
       <img src="https://img.shields.io/badge/Discord-green?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
   </div>
