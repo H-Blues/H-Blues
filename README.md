@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=H-Blues&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hey, this is Zihan.
+    Hey, here is Zihan.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -25,7 +25,7 @@ I am a student from China.
 - :mortar_board: I finished my undergraduate of Software Engineering in NUIST :cn: and SETU :ireland:.
 - :man_student: Studying MSc Financial Technology in University of Bristol :uk:.
 - :dart: I am interested in blockchain and want to become a full-stack developer.
-- :briefcase: I’m now working in [Neo](https://neo.org/) as a frontend intern. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :briefcase: I was working in [Neo](https://neo.org/) as a frontend intern. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :basketball: Basketball is my passion. Tribute to Derrick Rose :one:.
 
