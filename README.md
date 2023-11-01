@@ -20,14 +20,13 @@
 
 ### :man_technologist: About Me :
 
-I am a student from China.
 
 - :mortar_board: I finished my undergraduate of Software Engineering in NUIST :cn: and SETU :ireland:.
 - :man_student: Studying MSc Financial Technology in University of Bristol :uk:.
 - :dart: I am interested in blockchain and want to become a full-stack developer.
 - :briefcase: I was working in [Neo](https://neo.org/) as a frontend intern. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :basketball: Basketball is my passion. Tribute to Derrick Rose :one:.
+- :basketball: Love basketball. Tribute to Derrick Rose :one:.
 
 - :seedling: Keep Coding and Keep Exploring.
 
