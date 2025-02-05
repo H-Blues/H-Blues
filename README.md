@@ -23,7 +23,7 @@
 - :mortar_board: I finished my undergraduate of Software Engineering in China :cn: and Ireland :ireland:.
 - :man_student: Studied MSc Financial Technology in University of Bristol :uk:.
 - :dart: I am interested in blockchain and want to become a full-stack developer.
-- :briefcase: I was working in [Neo](https://neo.org/) as a frontend developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :briefcase: I was working in [Neo](https://neo.org/) as a frontend developer. Now I am working in [Galxe](https://www.galxe.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :trophy: Winner of the ETH Global Hackathons and other competitions.
 
